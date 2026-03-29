@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2026!<br><br>📚 I'm currently learning Java, SQL, Git and back-end development at all!<br><br>🎯 Goals: Master back-end and build complete && functional systems!<br><br>🎲 Fun fact: I once fought a ClassNotFoundException and lived to tell the tale!</p>
+<p align="left">✨ Creating bugs since 2025!<br><br>📚 I'm currently learning Java, SQL, Git and back-end development at all!<br><br>🎯 Goals: Master back-end and build complete && functional systems!<br><br>🎲 Fun fact: I once fought a ClassNotFoundException and lived to tell the tale!</p>
 
 ###
 
