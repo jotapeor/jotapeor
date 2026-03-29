@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2026!<br><br>📚 I'm currently learning Java, SQL and back-end development at all!<br><br>🎯 Goals: Master back-end and build complete && functional systems!<br><br>🎲 Fun fact: I once fought a ClassNotFoundException and lived to tell the tale!</p>
+<p align="left">✨ Creating bugs since 2026!<br><br>📚 I'm currently learning Java, SQL, Git and back-end development at all!<br><br>🎯 Goals: Master back-end and build complete && functional systems!<br><br>🎲 Fun fact: I once fought a ClassNotFoundException and lived to tell the tale!</p>
 
 ###
 
@@ -34,6 +34,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
 ###
@@ -46,14 +50,14 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/joaopauloor2004" target="_blank">
+  <a href="https://www.linkedin.com/in/joaopauloor2004/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/joaoo_or04/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="https://linktr.ee/jotapeor?utm_source=linktree_profile_share&ltsid=dedc1c31-2574-41fb-859b-36ea54e44034" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
+  </a>
+  <a href="https://www.instagram.com/joaoo_or04/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
 
